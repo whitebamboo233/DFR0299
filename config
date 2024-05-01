@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+email=2540933173@qq.com
+name=whitebamboo233
+[remote "origin"]
+	url = https://github.com/whitebamboo233/DFR0299.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
